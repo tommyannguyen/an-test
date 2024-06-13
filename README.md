@@ -30,3 +30,11 @@ Default ports range from 9000-9010
 docker-compose.yml
 
 Please adjust number of intances by set replicas 
+
+
+## Example
+![image](https://github.com/tommyannguyen/an-test/assets/5110596/5b364412-8ab6-4ca5-848b-ec972d9035d3)
+
+![image](https://github.com/tommyannguyen/an-test/assets/5110596/a930f954-7973-46f6-b2c2-41845d364dfb)
+
+
