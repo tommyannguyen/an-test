@@ -1,4 +1,4 @@
-# Requiment
+# Requirement
 
 Make sure dotnet 8 be installed 
 
