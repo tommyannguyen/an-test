@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  annguyen.spa.server:
+    image: ${DOCKER_REGISTRY-}annguyenspaserver
+    ports:
+      - "9000-9010:8080"
+    build:
+      context: .
+      dockerfile: AnNguyen.Spa/AnNguyen.Spa.Server/Dockerfile
+    deploy:
+      replicas: 2

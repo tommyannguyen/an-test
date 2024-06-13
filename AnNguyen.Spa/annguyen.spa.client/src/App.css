@@ -1,0 +1,11 @@
+﻿.main-search {
+    margin-left: auto;
+    margin-right: auto;
+}
+.lable {
+    width: 200px;
+}
+.required:after {
+    content: " *";
+    color: red;
+}

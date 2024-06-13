@@ -1,0 +1,6 @@
+@AnNguyen.Spa.Server_HostAddress = http://localhost:5226
+
+# GET {{AnNguyen.Spa.Server_HostAddress}}/weatherforecast/
+# Accept: application/json
+
+###
