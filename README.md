@@ -4,19 +4,15 @@ Make sure dotnet 8 be installed
 
 # Run application
 
-## 1. Run application
+## 1. Run in dev machine
 cd AnNguyen.Spa\AnNguyen.Spa.Server
 
 dotnet run dotnet run 
 
-## 2. Load web
-
-Load this url
+### Load web
 https://localhost:5173/
 
-
-
-## 3. Run in Docker
+## 2. Run in Docker
 ### Note : FE and Api Service can separated into 2 nodes. Api Services can setup muptiple intances
 
 docker compose build
