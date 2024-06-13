@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AnNguyen.Test
+/AnNguyen.Abtraction/bin/Debug/net8.0
+/AnNguyen.Abtraction/obj
+/AnNguyen.Services/bin/Debug/net8.0
+/AnNguyen.Services/obj
+/AnNguyen.Spa/annguyen.spa.client/obj/Debug
+/AnNguyen.Spa/AnNguyen.Spa.Server/bin/Debug/net8.0
+/AnNguyen.Spa/AnNguyen.Spa.Server/obj
+/AnNguyen.Test/bin/Debug/net8.0
+/AnNguyen.Test/obj
+/bin/Debug
+/obj
