@@ -16,6 +16,7 @@ https://localhost:5173/
 ### Note : FE and Api Service can separated into 2 nodes. Api Services can setup muptiple intances
 
 docker compose build
+
 docker compose up 
 
 Browser load
